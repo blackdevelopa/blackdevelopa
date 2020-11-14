@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I am Sylva 👋
 
 - 🔭 I’m currently working on [Aabo](https://getaabo.com/)
 - 🌱 I’m currently learning Flutter
