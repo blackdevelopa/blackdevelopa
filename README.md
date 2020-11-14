@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Aabo](https://getaabo.com/)
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on awesome projects
+- 💬 Ask me about JavaScript/React/React Native
+- 📫 How to reach me: iamsylvaelendu@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Sometimes I write short stories
+
 <!--
 **blackdevelopa/blackdevelopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
