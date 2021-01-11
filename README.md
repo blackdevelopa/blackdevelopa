@@ -1,6 +1,6 @@
 ### Hi there! I am Sylva 👋
 
-- 🔭 I’m currently working on [Aabo](https://getaabo.com/)
+- 🔭 I built [Aabo](https://getaabo.com/). It was fun
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on awesome projects
 - 💬 Ask me about JavaScript/React/React Native
