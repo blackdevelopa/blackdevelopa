@@ -1,9 +1,6 @@
 ### Hi there! I am Sylva 👋
 
 - 🔭 I built [Aabo](https://getaabo.com/). It was fun
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on awesome projects
-- 💬 Ask me about JavaScript/React/React Native
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Sometimes I write short stories
 
